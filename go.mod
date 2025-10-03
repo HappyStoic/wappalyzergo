@@ -1,4 +1,4 @@
-module github.com/projectdiscovery/wappalyzergo
+module github.com/HappyStoic/wappalyzergo
 
 go 1.24.0
 
